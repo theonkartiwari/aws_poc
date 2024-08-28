@@ -1,0 +1,4 @@
+aws:
+  region: us-east-1
+  pinpoint:
+    project-id: 2e90b71301c34dd485a8374eee3f7a4d
